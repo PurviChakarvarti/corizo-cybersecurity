@@ -13,7 +13,7 @@ ColdBox is a CFML framework for building web applications. Despite its built-in 
 - **Reporting**: Documenting findings and suggesting fixes.
 
 ## Findings
-We identified three key vulnerabilities:
+I identified three key vulnerabilities:
 1. SQL Injection
 2. Cross-Site Scripting (XSS)
 3. Session Fixation
